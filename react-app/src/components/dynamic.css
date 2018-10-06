@@ -1,0 +1,34 @@
+.cb {
+    display: block;
+    height: 300px;
+    padding: 10px;
+    border: 2px solid rgb(9, 19, 26); 
+    background-color: rgb(139, 218, 238); 
+    margin: 0 auto;
+    padding-left: 40px;
+    text-align: left;
+}
+.d
+{
+    padding-left: 70px;
+    text-align : left
+}
+.al
+{
+    text-decoration-color: black;
+    border-color: black;
+    background-color: #222;
+    text-align: right;
+}
+h2{
+    color: #222;
+}
+.cldd{
+    margin: 5%;
+    background-color: rgb(87, 187, 212);
+    width: 30%;
+    display: inline-block;
+    align-self: auto;
+    padding: 20px;
+    border: 2px solid rgb(2, 20, 34);
+}

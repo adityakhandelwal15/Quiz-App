@@ -1,0 +1,19 @@
+.cld{
+    margin: 5%;
+    background-color: rgb(134, 246, 228);
+    width: 30%;
+    display: inline-block;
+    align-self: auto;
+    padding: 20px;
+    border: 2px solid rgb(7, 46, 75);
+}
+
+.bbcc{
+    margin: 5%;
+    background-color: rgb(155, 228, 247);
+    width: 30%;
+    display: inline-block;
+    align-self: auto;
+    padding: 20px;
+    border: 2px solid rgb(2, 20, 34);
+}
